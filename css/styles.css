@@ -1,0 +1,40 @@
+body
+{
+
+background-color: gray;
+
+}
+
+h1
+{
+
+
+    color: rgb(9, 243, 106);
+}
+
+
+h2
+{
+
+
+    color: silver;
+
+}
+
+a
+{
+    
+    color: rgb(231, 8, 19);
+}
+p
+{
+    color: lightsalmon;
+}
+
+
+img
+{
+
+    width: 230;
+    height: 147;
+}
